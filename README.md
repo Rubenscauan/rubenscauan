@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como assistente de TI, numa empresa de fabricação de calçados (COCALQUI) de Quixeramobim-CE. Enquanto isso tambem realizo uma graduação em SISTEMAS DE INFORMAÇÃO (5º Semestre) na Universidade Federal do Ceará.
 
-- 🌱 Atualmente estou aprendendo Java, no que se remete a Spring, MVC E APIs Rest. Estou procurando colaborar em Projetos que me ajudem no aprendizado de Java e de Spring.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+- 🌱 Atualmente estou aprendendo React e toda sua estrutura (JavaScript, Css, Html), procuro projetos que possam me ajudar a melhorar o meu aprendizado nessa area..<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 
 
 
