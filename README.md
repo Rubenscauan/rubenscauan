@@ -1,9 +1,10 @@
 # Olá, me chamo Rubens Castro ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como assistente de TI, numa empresa de fabricação de calçados (COCALQUI) de Quixeramobim-CE. Enquanto isso tambem realizo uma graduação em SISTEMAS DE INFORMAÇÃO (5º Semestre) na Universidade Federal do Ceará.
+- 🔭 Atualmente estou trabalhando como assistente de TI, numa empresa de fabricação de calçados (COCALQUI) de Quixeramobim-CE. Enquanto isso tambem realizo uma graduação em SISTEMAS DE INFORMAÇÃO (6º Semestre) na Universidade Federal do Ceará.
 
-- 🌱 Atualmente estou aprendendo React e toda sua estrutura (JavaScript, Css, Html), procuro projetos que possam me ajudar a melhorar o meu aprendizado nessa area..<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+- 🌱 Tenho conchecimento no front end usando JAVASCRIPT, HTML E CSS, COM A BILIOTECA REACT..<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+- 🌱 Atualmente estou estudando back end focado na linguagem java.
 
 
 
