@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor back-end com a linguagem JAVA, no insight lab, um laboratorio de pesquisa. Enquanto isso tambem realizo uma graduação em SISTEMAS DE INFORMAÇÃO (8º Semestre) na Universidade Federal do Ceará.
 
-- 🌱 Tenho conchecimento no front end usando JAVASCRIPT, HTML E CSS, COM A BILIOTECA REACT..<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+- 🌱 Tenho conchecimento no front end usando JAVASCRIPT, HTML E CSS, COM A BILIOTECA REACT.
 - 🌱 Tenho conhecimento e experiencia em desenvolvimento em Java, principalmente na parte de back end com spring boot.
 - 🌱 Atualmente estou focado em estudar python, focado na área de IA, como machine learning e desenvolvimento de LLM's.
 
